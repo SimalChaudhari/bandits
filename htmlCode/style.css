@@ -1,0 +1,1021 @@
+.home-page {
+  background-color: #0b0b0c;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 3644px;
+  position: relative;
+}
+
+.home-page .bdaaf-e-f {
+  position: absolute;
+  top: 0;
+  left: 425px;
+  width: 1015px;
+  height: 672px;
+  object-fit: cover;
+}
+
+.home-page .group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1452px;
+}
+
+.home-page .img {
+  position: absolute;
+  top: 906px;
+  left: 347px;
+  width: 1093px;
+  height: 1624px;
+}
+
+.home-page .footer {
+  position: absolute;
+  left: calc(50.00% - 720px);
+  bottom: 0;
+  width: 1440px;
+  height: 381px;
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+  background-image: url(https://c.animaapp.com/mfz1ytmtJuEhxk/img/mask-group.png);
+  background-size: 100% 100%;
+}
+
+.home-page .frame {
+  display: inline-flex;
+  margin-top: 28px;
+  width: 1235.05px;
+  height: 299px;
+  margin-left: -1.0px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+
+.home-page .div {
+  display: inline-flex;
+  align-items: center;
+  gap: 781px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-2 {
+  display: flex;
+  flex-direction: column;
+  width: 317px;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+}
+
+.home-page .mask-group {
+  position: relative;
+  width: 72px;
+  height: 72px;
+}
+
+.home-page .smell-good-stay-fly {
+  position: relative;
+  width: 348px;
+  margin-right: -31.00px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5f5f5;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .img-2 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+}
+
+.home-page .frame-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 108px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 7px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #f5f5f5;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.home-page .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .line {
+  position: relative;
+  width: 1235.05px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.home-page .frame-6 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .copyright {
+  position: relative;
+  width: 11px;
+  height: 11px;
+}
+
+.home-page .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .header {
+  display: inline-flex;
+  align-items: center;
+  gap: 210px;
+  position: absolute;
+  top: 35px;
+  left: calc(50.00% - 615px);
+  background-color: transparent;
+}
+
+.home-page .navbar {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 50px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .frame-7 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 14px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #c9a44a;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home-page .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #0b0b0c;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .hero-banner {
+  display: flex;
+  width: 1236px;
+  align-items: center;
+  position: absolute;
+  top: 215px;
+  left: calc(50.00% - 618px);
+}
+
+.home-page .frame-8 {
+  display: flex;
+  flex-direction: column;
+  width: 653px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 56px;
+  position: relative;
+}
+
+.home-page .frame-9 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -99.00px;
+}
+
+.home-page .the-heist-begins {
+  position: relative;
+  width: 752px;
+  margin-top: -1.00px;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 72px;
+  letter-spacing: 0;
+  line-height: 67px;
+}
+
+.home-page .span {
+  font-weight: 700;
+  color: #c9a44a;
+}
+
+.home-page .the-doors-are-locked {
+  position: relative;
+  width: 530px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5f5f5;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .frame-10 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-11 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 30px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #c9a44a;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.home-page .frame-12 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 14px 30px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #c9a44a;
+}
+
+.home-page .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #c9a44a;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .why-join-crew {
+  position: absolute;
+  top: 657px;
+  left: 0;
+  width: 1440px;
+  height: 564px;
+}
+
+.home-page .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 564px;
+  background-color: #1a1a1a;
+  opacity: 0.5;
+}
+
+.home-page .frame-13 {
+  display: flex;
+  flex-direction: column;
+  width: 1231px;
+  align-items: center;
+  gap: 48px;
+  position: absolute;
+  top: 48px;
+  left: 105px;
+}
+
+.home-page .frame-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home-page .why-join-the-crew {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1.00px;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.home-page .text-wrapper-6 {
+  font-weight: 700;
+  color: #f5f5f5;
+}
+
+.home-page .text-wrapper-7 {
+  font-weight: 700;
+  color: #c9a44a;
+  font-size: 64px;
+  line-height: 0.1px;
+}
+
+.home-page .text-wrapper-8 {
+  font-weight: 700;
+  color: #c9a44a;
+  font-size: 64px;
+  line-height: 64px;
+}
+
+.home-page .text-wrapper-9 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5f5f5;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .frame-15 {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-16 {
+  position: relative;
+  width: 389px;
+  height: 280px;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.home-page .frame-17 {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  top: 63px;
+  left: 34px;
+}
+
+.home-page .group-2 {
+  position: relative;
+  width: 82px;
+  height: 49.05px;
+  margin-top: -2.00px;
+}
+
+.home-page .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 700;
+  color: #c9a44a;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-11 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .frame-18 {
+  display: flex;
+  flex-direction: column;
+  width: 389px;
+  height: 280px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 42px 34px;
+  position: relative;
+  background-color: #1b1b1b;
+  border-radius: 10px;
+}
+
+.home-page .frame-19 {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+}
+
+.home-page .group-3 {
+  position: relative;
+  width: 60px;
+  height: 69.8px;
+  margin-top: -2.00px;
+}
+
+.home-page .frame-20 {
+  top: 43px;
+  left: 34px;
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+}
+
+.home-page .group-4 {
+  position: relative;
+  width: 68px;
+  height: 68px;
+  margin-top: -2.00px;
+}
+
+.home-page .heist-work {
+  display: flex;
+  flex-direction: column;
+  width: 1188px;
+  align-items: center;
+  gap: 48px;
+  position: absolute;
+  top: 1303px;
+  left: 126px;
+}
+
+.home-page .frame-21 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home-page .how-the-heist-works {
+  position: relative;
+  align-self: stretch;
+  height: 88px;
+  margin-top: -1.00px;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.home-page .text-wrapper-12 {
+  font-weight: 700;
+  color: #f5f5f5;
+  font-size: 64px;
+  line-height: 0.1px;
+}
+
+.home-page .text-wrapper-13 {
+  position: relative;
+  align-self: stretch;
+  height: 40px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5f5f5;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .vector {
+  position: relative;
+  width: 439.5px;
+  height: 6.73px;
+  margin-bottom: -3.37px;
+}
+
+.home-page .frame-22 {
+  display: flex;
+  align-items: flex-start;
+  gap: 48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-23 {
+  display: flex;
+  flex-direction: column;
+  width: 364px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+}
+
+.home-page .frame-24 {
+  position: relative;
+  width: 88px;
+  height: 88px;
+  background-color: #c9a44a;
+  border-radius: 44px;
+}
+
+.home-page .text-wrapper-14 {
+  position: absolute;
+  top: 12px;
+  left: 34px;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 700;
+  color: #0b0b0c;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .ellipse {
+  position: absolute;
+  top: calc(50.00% - 36px);
+  left: calc(50.00% - 36px);
+  width: 73px;
+  height: 73px;
+  border-radius: 36.5px;
+  border: 2px dashed;
+  border-color: #0b0b0c;
+}
+
+.home-page .text-wrapper-15 {
+  left: 29px;
+  position: absolute;
+  top: 12px;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 700;
+  color: #0b0b0c;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .text-wrapper-16 {
+  left: 30px;
+  position: absolute;
+  top: 12px;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 700;
+  color: #0b0b0c;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .join-the-heist {
+  position: absolute;
+  top: 2624px;
+  left: calc(50.00% - 618px);
+  width: 1236px;
+  height: 557px;
+}
+
+.home-page .group-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1236px;
+  height: 557px;
+  background-image: url(https://c.animaapp.com/mfz1ytmtJuEhxk/img/pexels-guillaume-pierre-leroy-11417443-2.png);
+  background-size: 100% 100%;
+}
+
+.home-page .rectangle-2 {
+  position: absolute;
+  top: calc(50.00% - 278px);
+  left: calc(50.00% - 618px);
+  width: 1236px;
+  height: 557px;
+  background-color: #0b0b0c;
+  opacity: 0.8;
+}
+
+.home-page .rectangle-3 {
+  position: absolute;
+  top: calc(50.00% - 278px);
+  left: calc(50.00% - 618px);
+  width: 1236px;
+  height: 557px;
+  background: linear-gradient(
+    0deg,
+    rgba(11, 11, 12, 1) 50%,
+    rgba(11, 11, 12, 0) 100%
+  );
+}
+
+.home-page .frame-25 {
+  display: flex;
+  flex-direction: column;
+  width: 898px;
+  align-items: center;
+  gap: 48px;
+  position: absolute;
+  top: calc(50.00% - 244px);
+  left: calc(50.00% - 449px);
+}
+
+.home-page .frame-26 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -23.00px;
+  margin-right: -23.00px;
+}
+
+.home-page .flexcontainer {
+  width: 605px;
+  height: 109px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.home-page .text {
+  position: relative;
+  align-self: stretch;
+  font-family: "Cinzel", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.home-page .text-wrapper-17 {
+  font-weight: 700;
+  color: #f5f5f5;
+  line-height: 11.2px;
+}
+
+.home-page .text-wrapper-18 {
+  font-weight: 700;
+  color: #c9a44a;
+  font-size: 96px;
+  line-height: 44.6px;
+}
+
+.home-page .turn-your-passion {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 944px;
+  height: 70px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .frame-27 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 922px;
+  align-items: center;
+  justify-content: center;
+  gap: 0px 40px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .frame-28 {
+  display: flex;
+  flex-direction: column;
+  width: 244px;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.home-page .group-6 {
+  position: relative;
+  width: 59px;
+  height: 59px;
+  margin-top: -1.50px;
+}
+
+.home-page .text-wrapper-19 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #f5f5f5;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .line-2 {
+  position: relative;
+  width: 2px;
+  height: 92px;
+}
+
+.home-page .group-7 {
+  position: relative;
+  width: 59px;
+  height: 64.6px;
+  margin-top: -1.50px;
+}
+
+.home-page .best-selling-prods {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  position: absolute;
+  top: 1773px;
+  left: calc(50.00% - 618px);
+}
+
+.home-page .frame-29 {
+  display: inline-flex;
+  flex-direction: column;
+  height: 199px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+}
+
+.home-page .flexcontainer-2 {
+  width: 551px;
+  height: 78px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.home-page .text-wrapper-20 {
+  font-weight: 700;
+  color: #f5f5f5;
+  line-height: 7.2px;
+}
+
+.home-page .text-wrapper-21 {
+  font-weight: 700;
+  color: #c9a44a;
+  font-size: 64px;
+  line-height: 19.2px;
+}
+
+.home-page .text-wrapper-22 {
+  position: relative;
+  width: 896px;
+  height: 37px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5f5f5;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .vector-2 {
+  position: relative;
+  width: 439.5px;
+  height: 6.73px;
+}
+
+.home-page .frame-30 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.home-page .caret-left {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+
+.home-page .frame-31 {
+  display: flex;
+  width: 1152px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+  position: relative;
+}
+
+.home-page .group-wrapper {
+  position: relative;
+  width: 341px;
+  height: 440px;
+  background-image: url(https://c.animaapp.com/mfz1ytmtJuEhxk/img/mask-group-3.png);
+  background-size: 100% 100%;
+}
+
+.home-page .group-8 {
+  position: relative;
+  top: 35px;
+  left: 44px;
+  width: 253px;
+  height: 370px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home-page .old-fashion-gold {
+  margin-left: 1px;
+  width: 250px;
+  height: 286px;
+}
+
+.home-page .frame-32 {
+  display: inline-flex;
+  width: 253px;
+  height: 84px;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.home-page .text-wrapper-23 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #f5f5f5;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .dark-mysterious-and {
+  position: relative;
+  width: fit-content;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #8a8a8e;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home-page .group-9 {
+  position: relative;
+  width: 341px;
+  height: 440px;
+  background-image: url(https://c.animaapp.com/mfz1ytmtJuEhxk/img/mask-group-4.png);
+  background-size: 100% 100%;
+}
+
+.home-page .group-10 {
+  position: relative;
+  width: 341px;
+  height: 440px;
+  background-image: url(https://c.animaapp.com/mfz1ytmtJuEhxk/img/mask-group-5.png);
+  background-size: 100% 100%;
+}
